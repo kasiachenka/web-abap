@@ -1,3 +1,2 @@
 # web-abap
-WebABAP Course
-Proba pera
+LeverX WebABAP Course
