@@ -1,0 +1,13 @@
+
+.div_1 {
+    width: 50%; 
+    background: red;
+    padding: 40px;
+}
+
+.div_2 {
+    width: 50%; 
+    background:green;
+    padding: 40px; 
+    position: relative;     
+}
